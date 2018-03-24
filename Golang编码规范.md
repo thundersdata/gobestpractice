@@ -239,3 +239,6 @@ goland配置metalinter:
 # 参考资料
 * [http://golang.org/doc/effective_go.html](http://golang.org/doc/effective_go.html)
 * [https://code.google.com/p/go-wiki/wiki/CodeReviewComments](https://code.google.com/p/go-wiki/wiki/CodeReviewComments)
+* https://blog.csdn.net/myzlhh/article/details/52269591
+* https://sheepbao.github.io/post/golang_code_specification/
+* http://colobu.com/2017/02/07/write-idiomatic-golang-codes/
