@@ -6,15 +6,19 @@ golang 项目最佳实践。提供基本问题的建议写法，让大家能够�
 ## Finished
 
 * 配置文件读取(conf, 配置文件默认是项目根目录下的app.conf，yaml格式)
+-- github.com/sirupsen/logrus
 * 日志处理(log，依赖conf)
+-- github.com/jinzhu/configor
+* JSON Parser(parser/json)
+-- github.com/tidwall/gjson
+* YAML Parser(parser/yaml)
+-- gopkg.in/yaml.v2
 
 ## TODO
 
 1. Parser
 
-   1. JSON
    1. XML
-   1. YAML
 
 1. DATABASE
 

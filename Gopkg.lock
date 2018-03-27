@@ -80,6 +80,18 @@
   version = "v1.0.5"
 
 [[projects]]
+  name = "github.com/tidwall/gjson"
+  packages = ["."]
+  revision = "01f00f129617a6fe98941fb920d6c760241b54d2"
+  version = "v1.1.0"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/tidwall/match"
+  packages = ["."]
+  revision = "1731857f09b1f38450e2c12409748407822dc6be"
+
+[[projects]]
   branch = "master"
   name = "github.com/tracer0tong/kafkalogrus"
   packages = ["."]
@@ -109,6 +121,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "9012b3d3465ee3221b97c58c3e355d9ddd81b217c1eba06ecca7f39b889843fc"
+  inputs-digest = "2256c036214d8ffb24fdf32b99451218f75a58db514183f6807d67c141db7a40"
   solver-name = "gps-cdcl"
   solver-version = 1
